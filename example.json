@@ -1,0 +1,17 @@
+{
+  "name": "Stefano",
+  "surname": "Miceli",
+  "teaching": true,
+  "hasWebcam": true,
+  "numOfStudents": 28,
+  "location": {
+    "state": "Italy",
+    "region": "FVG",
+    "coords": {
+      "lat": 45.827,
+      "lon": 33.3892
+    }
+  },
+  "batchCode": "FS0824B",
+  "courseUnits": ["HTML & CSS", "JS 1", "JS 2", "UX&UI", "Bootstrap", "SASS", "JS 3"]
+}
